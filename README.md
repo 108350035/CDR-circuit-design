@@ -1,2 +1,4 @@
 # CDR-circuit-design
-時脈資料恢復電路設計 
+#  38 Gb/s 時脈資料恢復電路設計 
+# 參考 Razavi 提出的論文
+## TSMC 28nm 實現
